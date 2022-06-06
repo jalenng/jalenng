@@ -12,6 +12,11 @@
 <br/><br/>
 <sub> FAVORITE PROJECTS </sub> <br/>
 [
+  <b> 🤖 echobot </b> <br/> 
+  <sup> Text-to-speech and music bot for Discord servers </sup>
+](https://github.com/jalenng/echobot)
+
+[
   <b> 🕒 unicorn-hat-hd-clock </b> <br/> 
   <sup> Python script that displays time and weather on an LED dot matrix screen </sup>
 ](https://github.com/jalenng/unicorn-hat-hd-clock)
