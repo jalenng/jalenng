@@ -1,16 +1,25 @@
-### Hi there 👋
+<sub> PRONOUNS </sub> <br/>
+<b> 
+  he/him 
+</b>
 
-<!--
-**jalenng/jalenng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub> TECHNOLOGIES </sub> <br/>
+<b> 
+  ⚛️React &nbsp;•&nbsp; 
+  🐍Python &nbsp;•&nbsp; 
+  🎮Unity 
+</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub> FAVORITE PROJECTS </sub> <br/>
+[
+  <b> 🕒 unicorn-hat-hd-clock </b> <br/> 
+  <sup> Python script that displays time and weather on an LED dot matrix screen </sup>
+](https://github.com/jalenng/unicorn-hat-hd-clock) <br/>
+[
+  <b> ⌛ twenty </b> <br/> 
+  <sup> Eye-break timer created with React and Electron </sup>
+](https://github.com/jalenng/twenty) <br/>
+[
+  <b> 🐦 flocking-and-clouds-unity </b> <br/> 
+  <sup> Simulation of birds flocking among ray-marched clouds in Unity </sup>
+](https://github.com/jalenng/flocking-and-clouds-unity) 
