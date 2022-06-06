@@ -5,9 +5,9 @@
 <br/><br/>
 <sub> TECHNOLOGIES </sub> <br/>
 <b> 
-  ⚛️React &nbsp;•&nbsp; 
-  🐍Python &nbsp;•&nbsp; 
-  🎮Unity 
+  ⚛️ React &nbsp;•&nbsp; 
+  🐍 Python &nbsp;•&nbsp; 
+  🎮 Unity 
 </b>
 <br/><br/>
 <sub> FAVORITE PROJECTS </sub> <br/>
