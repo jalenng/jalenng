@@ -3,13 +3,13 @@
   he/him 
 </b>
 <br/><br/>
-<sub> TECHNOLOGIES </sub> <br/>
+<sub> SKILLS </sub> <br/>
 <b> 
   ⚛️ React &nbsp;•&nbsp; 
   🐍 Python &nbsp;•&nbsp; 
   🎮 Unity 
 </b>
-<br/><br/>
+<!-- <br/><br/>
 <sub> FAVORITE PROJECTS </sub> <br/>
 [
   <b> 🤖 echobot </b> <br/> 
@@ -30,3 +30,4 @@
   <b> 🐦 flocking-and-clouds-unity </b> <br/> 
   <sup> Simulation of birds flocking among ray-marched clouds in Unity </sup>
 ](https://github.com/jalenng/flocking-and-clouds-unity) 
+ -->
